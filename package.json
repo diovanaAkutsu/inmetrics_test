@@ -7,4 +7,3 @@
     "stepDefinitions": "cypress/support/step_definitions/"
   }
 }
-git rev-list --objects --all | grep blobid 425518a066b38d8489116505a378abd28f7bd6b8
