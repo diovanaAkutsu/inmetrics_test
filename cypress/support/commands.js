@@ -28,3 +28,13 @@ const url = Cypress.config("baseUrl")
 Cypress.Commands.add('login', () => {
     cy.visit(url)
 })
+
+const fs = require('fs');
+
+Cypress.Commands.add('updateJson', (filePath, updates) => {
+    cy.readFile(filePath).then((data) => {
+        const updatedData = { ...data, ...updates };
+
+        cy.writeFile(filePath, updatedData);
+    });
+});
