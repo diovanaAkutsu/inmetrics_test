@@ -22,8 +22,7 @@
 - Ter o Node.js e NPM instalado na máquina (foi usado a versão 22 do Node.js)
 
 ## Passo a passo para a instalação:
-1. Clonar repositório:
-    `git clone https://github.com/seu_usuário/inmetrics_test.git`
+1. Clonar o repositório
 2. Executar no terminal o comando `npm i` para instalar as dependências do projeto
 3. Criar na pasta Cypress um arquivo .env pode ser nomeado por exemplo como `cypress.env`, e inserir o seguinte código abaixo contendo seu usuário e senha:
    `CYPRESS_USERNAME=seu_usuário
