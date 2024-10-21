@@ -23,7 +23,7 @@
 
 ## Passo a passo para a instalação:
 1. Clonar repositório:
-    `git clone https://github.com/diovanaAkutsu/inmetrics_test.git`
+    `git clone https://github.com/seu_usuário/inmetrics_test.git`
 2. Executar no terminal o comando `npm i` para instalar as dependências do projeto
 
 ## Execução dos testes:
