@@ -14,6 +14,10 @@
 - Abaixo segue o link para os testes manuais que foram realizados:
   https://1drv.ms/w/c/bd98575f18f73cf5/EX13QLWz2L5Fj9EoPK2yblUB6BB1CaEN1AYPRldc3wvImQ?e=Yl2bd9
 
+## Defeitos encontrados:
+- Abaixo segue o link dos defeitos que foram encontrados durante os testes:
+  https://1drv.ms/w/c/bd98575f18f73cf5/EdbNPRc9edtNsji2wI3WX2EBp6aTA6WEgiFSki6Jbm3lJA?e=uUE1OS
+
 ## Tecnologias e versionamento:
 - Cypress | Versão 13.15.0
 - Cucumber | Versão 4.3.1
