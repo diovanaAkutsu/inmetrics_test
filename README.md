@@ -12,6 +12,7 @@
 
 ## Testes manuais :
 - Abaixo segue o link para os testes manuais que foram realizados:
+  https://1drv.ms/w/c/bd98575f18f73cf5/EX13QLWz2L5Fj9EoPK2yblUB6BB1CaEN1AYPRldc3wvImQ?e=Yl2bd9
 
 ## Tecnologias e versionamento:
 - Cypress | Versão 13.15.0
