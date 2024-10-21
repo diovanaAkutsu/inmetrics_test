@@ -19,7 +19,7 @@ Feature: Validação da funcionalidade busca do site Advantage Online Shopping
     Then deverá aparecer os produtos que contenham a palavra "HP" no modal
     And também serão visiveis as categorias da pesquisa
 
-  Scenario: Realizar busca de um produto que não exite
+  Scenario: Realizar busca de um produto que não existe
     Given acesso o site da Advantage Online Shopping
     When clico no ícone de pesquisa
     When pesquiso pelo produto "Teste"
