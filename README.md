@@ -21,9 +21,10 @@
 ## Tecnologias e versionamento:
 - Cypress | Versão 13.15.0
 - Cucumber | Versão 4.3.1
+- Node.js | Versão 22.4.1
 
 ## Pré-Requisitos técnicos:
-- Ter o Node.js e NPM instalado na máquina (foi usado a versão 22 do Node.js)
+- Ter o Node.js e NPM instalado na máquina
 
 ## Passo a passo para a instalação:
 1. Clonar o repositório
